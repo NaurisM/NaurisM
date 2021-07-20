@@ -7,7 +7,7 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="50" height="50">
 
 ---
 
